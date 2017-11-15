@@ -1,0 +1,29 @@
+{
+  "name": "fake_data_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "faker": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lubkoKuzenko/fake_data_api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lubkoKuzenko/fake_data_api/issues"
+  },
+  "homepage": "https://github.com/lubkoKuzenko/fake_data_api#readme"
+}
